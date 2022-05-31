@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me at rispro.ray@gmail.com
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
-
 - Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
