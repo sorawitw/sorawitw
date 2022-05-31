@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F715E7&lines=Welcome+to+my+world+%3A))](https://git.io/typing-svg)
+
 - 👋 Hi there, I’m @sorawitw
 - 👀 I’m interested in Node.js, Mobile App (Android Native, Flutter), Golang, AR
 - 🌱 I’m currently learning Flutter
