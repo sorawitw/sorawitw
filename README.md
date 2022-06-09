@@ -2,7 +2,6 @@
 
 - 👋 Hi there, I’m @sorawitw
 - 👀 I’m interested in Node.js, Mobile App (Android Native, Flutter), Golang, AR
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me at rispro.ray@gmail.com
 
