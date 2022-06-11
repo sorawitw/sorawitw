@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F715E7&multiline=true&lines=Welcome+to+my+world+%3AD)](https://git.io/typing-svg)
 
 - 👋 Hi there, I’m @sorawitw
-- 👀 I’m interested in Node.js, Mobile App (Android Native, Flutter), Golang, AR
+- 👀 I’m interested in Node.js, Mobile App, Golang, AR
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me at rispro.ray@gmail.com
 
